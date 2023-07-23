@@ -1,4 +1,4 @@
-## Covid-19---Tableau-Project- Insights-
+## Covid-19-Tableau-Project- Insights-
 
 ## Insights
 
