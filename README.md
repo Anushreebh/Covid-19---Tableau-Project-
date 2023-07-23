@@ -1,6 +1,6 @@
 ## Covid-19---Tableau-Project- Insights-
 
-###Insights
+##Insights
 
 Some parts of Europe has the highest infection rate in relation to its population
 
